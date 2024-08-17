@@ -1,0 +1,397 @@
+[
+  {
+    "Astronomy" : [
+      {
+        "id": "AST-001",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/astronomy/book2.jpg",
+        "title": "Encyclopedia: The Milky Way (Space Encyclopedia)",
+        "author": "Om Books Editorial Team"
+      },
+      {
+        "id": "AST-002",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/astronomy/book3.jpg",
+        "title": "Encyclopedia: The Solar System and its Dwarf Planet (Space Encyclopedia)",
+        "author": "Om Books Editorial Team"
+      },
+      {
+        "id": "AST-003",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample4.mp3?alt=media&token=96e5ae1e-6604-4fd7-9274-35bfef01e0cf",
+        "imgUrl": "assets/categories/astronomy/book4.jpg",
+        "title": "Seven Brief Lessons on Physics",
+        "author": "Carlo Rovelli"
+      },
+      {
+        "id": "AST-004",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/astronomy/book5.jpg",
+        "title": "The Theory of Everything: The Origin and Fate of the Universe",
+        "author": "Stephen Hawking"
+      },
+      {
+        "id": "AST-005",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/astronomy/book6.jpg",
+        "title": "A Brief History Of Time: From Big Bang To Black Holes",
+        "author": "Stephen Hawking"
+      },
+      {
+        "id": "AST-006",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/astronomy/book1.jpg",
+        "title": "Cosmos",
+        "author": "Carl Sagan"
+      },
+      {
+        "id": "AST-007",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/astronomy/book7.jpg",
+        "title": "Space - 500 Facts",
+        "author": "Pegasus"
+      },
+      {
+        "id": "AST-008",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample4.mp3?alt=media&token=96e5ae1e-6604-4fd7-9274-35bfef01e0cf",
+        "imgUrl": "assets/categories/astronomy/book8.jpg",
+        "title": "Black Holes: The Reith Lectures",
+        "author": "Stephen Hawking"
+      },
+      {
+        "id": "AST-009",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/astronomy/book9.jpg",
+        "title": "Endless Universe: Beyond The Big Bang",
+        "author": "Paul J. Steinhardt, Neil Turok"
+      }
+    ]
+  },
+  {
+    "Hindi" : [
+      {
+        "id": "HIN-001",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/hindi/book1.jpg",
+        "title": "Topi Shukla (Hindi)",
+        "author": "Rahi Masoom Raza"
+      },
+      {
+        "id": "HIN-002",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/hindi/book2.jpg",
+        "title": "Saaye Mein Dhoop (Hindi)",
+        "author": "Dushyant Kumar"
+      },
+      {
+        "id": "HIN-003",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/hindi/book3.jpg",
+        "title": "Gitanjali (Hindi)",
+        "author": "Rabindranath Tagore"
+      },
+      {
+        "id": "HIN-004",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample4.mp3?alt=media&token=96e5ae1e-6604-4fd7-9274-35bfef01e0cf",
+        "imgUrl": "assets/categories/hindi/book4.jpg",
+        "title": "Chitralekha (Hindi)",
+        "author": "Bhagwaticharan Verma"
+      },
+      {
+        "id": "HIN-005",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/hindi/book5.jpg",
+        "title": "Kankal (Hindi)",
+        "author": "Jaishankar Prasad"
+      }
+    ]
+  },
+  {
+    "Biographies" : [
+      {
+        "id": "BIO-001",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/biographies/book1.jpg",
+        "title": "Here, There and Everywhere",
+        "author": "Sudha Murty"
+      },
+      {
+        "id": "BIO-002",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/biographies/book2.jpg",
+        "title": "Brief Answers to the Big Questions",
+        "author": "Stephen Hawking"
+      },
+      {
+        "id": "BIO-003",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/biographies/book3.jpg",
+        "title": "Becoming",
+        "author": "Michelle Obama"
+      },
+      {
+        "id": "BIO-004",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample4.mp3?alt=media&token=96e5ae1e-6604-4fd7-9274-35bfef01e0cf",
+        "imgUrl": "assets/categories/biographies/book4.jpg",
+        "title": "Why I am an Atheist and Other Works",
+        "author": "Bhagat Singh"
+      },{
+        "id": "BIO-005",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/biographies/book5.jpg",
+        "title": "The Letters of Vincent Van Gogh",
+        "author": " Vincent Van Gogh"
+      },
+      {
+        "id": "BIO-006",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/biographies/book6.jpg",
+        "title": "The Beauty of All My Days: A Memoir",
+        "author": "Ruskin Bond"
+      }
+    ]
+  },
+  {
+    "Romance" : [
+      {
+        "id": "ROM-001",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/romance/book1.jpg",
+        "title": "One Arranged Murder",
+        "author": "Chetan Bhagat"
+      },
+      {
+        "id": "ROM-002",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/romance/book2.jpg",
+        "title": "A Touch of Eternity",
+        "author": "Datta Durjoy"
+      },
+      {
+        "id": "ROM-003",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/romance/book3.jpg",
+        "title": "The Fault in our Stars",
+        "author": "John Green"
+      },
+      {
+        "id": "ROM-004",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample4.mp3?alt=media&token=96e5ae1e-6604-4fd7-9274-35bfef01e0cf",
+        "imgUrl": "assets/categories/romance/book4.jpg",
+        "title": "A Girl to Remember",
+        "author": "Ajay K Pandey"
+      },{
+        "id": "ROM-005",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/romance/book5.jpg",
+        "title": "Something I Never Told You",
+        "author": "Shravya Bhinder"
+      },
+      {
+        "id": "ROM-006",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/romance/book6.jpg",
+        "title": "Wish I Could Tell You",
+        "author": "Durjoy Datta"
+      },
+      {
+        "id": "ROM-007",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/romance/book7.jpg",
+        "title": "You Only Live Once",
+        "author": "Stuti Changle"
+      }
+    ]
+  },
+  {
+    "Business": [
+      {
+        "id": "BUS-001",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/business/book1.jpg",
+        "title": "The Almanack Of Naval Ravikant",
+        "author": "Naval Ravikant"
+      },
+      {
+        "id": "BUS-002",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/business/book2.jpg",
+        "title": "The High-Performance Entrepreneur",
+        "author": "Subroto Bagchi"
+      },
+      {
+        "id": "BUS-003",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/business/book3.jpg",
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel"
+      }
+    ]
+  },
+  {
+    "Crime/Mystery/Thriller" : [
+      {
+        "id": "CMT-001",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/crime_mystery_thriller/book1.jpg",
+        "title": "Digital Fortress",
+        "author": "Dan Brown"
+      },
+      {
+        "id": "CMT-002",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/crime_mystery_thriller/book2.jpg",
+        "title": "That Night: Four Friends. Twenty Years. One Haunting Secret.",
+        "author": "Nidhi Upadhyay"
+      },
+      {
+        "id": "CMT-003",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/crime_mystery_thriller/book5.jpg",
+        "title": "400 Days",
+        "author": "Chetan Bhagat"
+      }
+    ]
+  },
+  {
+    "Economics" : [
+      {
+        "id": "ECO-001",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/economics/book1.jpg",
+        "title": "Principles for Dealing With The Changing World Order",
+        "author": "Ray Dalio"
+      },
+      {
+        "id": "ECO-002",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/economics/book2.jpg",
+        "title": "The $Ten Trillion Dream",
+        "author": "Subhash Chandra Garg"
+      },
+      {
+        "id": "ECO-003",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/economics/book3.jpg",
+        "title": "How to Avoid Loss and Earn Consistently in the Stock Market",
+        "author": "Prasenjit Paul"
+      }
+    ]
+  },
+  {
+    "Short Stories" : [
+      {
+        "id": "SHS-001",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/short_stories/book1.jpg",
+        "title": "Birthday Stories: Selected and Introduced by Haruki Murakami",
+        "author": "Haruki Murakami"
+      },
+      {
+        "id": "SHS-002",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/short_stories/book2.jpg",
+        "title": "Onam in a Nightie: Stories from a Kerala Quarantine",
+        "author": "Anjana Menon"
+      },
+      {
+        "id": "SHS-003",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/short_stories/book4.jpg",
+        "title": "The Greatest Short Stories of Leo Tolstoy",
+        "author": "Leo Tolstoy"
+      }
+    ]
+  },
+  {
+    "Popular" : [
+      {
+        "id": "POP-001",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/popular/book1.jpg",
+        "title": "Atomic Habits: The life-changing million copy bestseller",
+        "author": "James Clear",
+        "tags" : ["Top-10","Recommended"]
+      },
+      {
+        "id": "POP-002",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/popular/book2.jpg",
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "tags" : ["Top-10","Recommended"]
+      },
+      {
+        "id": "POP-003",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/popular/book3.jpg",
+        "title": "Ikigai: The Japanese secret to a long and happy life",
+        "author": "Héctor García, Francesc Miralles",
+        "tags" : ["Top-10","Recommended"]
+      },
+      {
+        "id": "POP-004",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/popular/book4.jpg",
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "tags" : ["Top-100","Recommended"]
+      },
+      {
+        "id": "POP-005",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/popular/book5.jpg",
+        "title": "DO EPIC SHIT",
+        "author": "Ankur Warikoo",
+        "tags" : ["Top-10","Recommended"]
+      },
+      {
+        "id": "POP-006",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/popular/book6.jpg",
+        "title": "Our Moon Has Blood Clots: A Memoir of a Lost Home in Kashmir",
+        "author": "Rahul Pandita",
+        "tags" : ["Top-100"]
+      },
+      {
+        "id": "POP-007",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/popular/book7.jpg",
+        "title": "The Power of Your Subconscious Mind",
+        "author": "Joseph Murphy",
+        "tags" : ["Top-100","Recommended"]
+      },
+      {
+        "id": "POP-008",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/popular/book8.jpg",
+        "title": "Man's Search For Meaning: The classic tribute to hope from the Holocaust",
+        "author": "Viktor E. Frankl",
+        "tags" : ["Top-100","Recommended"]
+      },
+      {
+        "id": "POP-009",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/popular/book9.jpg",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "tags" : ["Recommended"]
+      }
+    ]
+  }
+]
