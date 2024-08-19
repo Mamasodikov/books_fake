@@ -3,7 +3,7 @@
     "Popular" : [
       {
         "id": "POP-001",
-        "audioUrl":"https://ia803203.us.archive.org/14/items/atozedcollection_vol002_2009_librivox/atozed002_05_various_64kb.mp3",
+        "audioUrl":"https://www.archive.org/download/multilingual_fairy_tale_002_0911_librivox/fairytale002_01_fairyfrog_landa_dl_64kb.mp3",
         "imgUrl": "assets/categories/popular/book1.jpg",
         "title": "Atomic Habits: The life-changing million copy bestseller",
         "author": "James Clear",
@@ -11,7 +11,7 @@
       },
       {
         "id": "POP-002",
-        "audioUrl": "https://www.archive.org/download/multilingual_fairy_tale_002_0911_librivox/fairytale002_01_fairyfrog_landa_dl_64kb.mp3",
+        "audioUrl": "https://www.archive.org/download/colors_space_0707_librivox/thecolorsofspace_04_bradley_64kb.mp3",
         "imgUrl": "assets/categories/popular/book2.jpg",
         "title": "The Psychology of Money",
         "author": "Morgan Housel",
