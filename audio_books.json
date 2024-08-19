@@ -1,23 +1,102 @@
 [
+    {
+    "Popular" : [
+      {
+        "id": "POP-001",
+        "audioUrl":
+        "https://ia803103.us.archive.org/22/items/humannatureconduct1_1807_librivox/humannatureandconduct1_6_dewey_128kb.mp3",
+        "imgUrl": "assets/categories/popular/book1.jpg",
+        "title": "Atomic Habits: The life-changing million copy bestseller",
+        "author": "James Clear",
+        "tags" : ["Top-10","Recommended"]
+      },
+      {
+        "id": "POP-002",
+        "audioUrl": "https://www.archive.org/download/multilingual_fairy_tale_002_0911_librivox/fairytale002_01_fairyfrog_landa_dl_64kb.mp3",
+        "imgUrl": "assets/categories/popular/book2.jpg",
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "tags" : ["Top-10","Recommended"]
+      },
+      {
+        "id": "POP-003",
+        "audioUrl" : "https://ia804506.us.archive.org/8/items/door_through_space_0908/doorthroughspace_10_bradley_64kb.mp3",
+        "imgUrl": "assets/categories/popular/book3.jpg",
+        "title": "Ikigai: The Japanese secret to a long and happy life",
+        "author": "Héctor García, Francesc Miralles",
+        "tags" : ["Top-10","Recommended"]
+      },
+      {
+        "id": "POP-004",
+        "audioUrl":
+        "https://ia803203.us.archive.org/14/items/atozedcollection_vol002_2009_librivox/atozed002_05_various_64kb.mp3",
+        "imgUrl": "assets/categories/popular/book4.jpg",
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "tags" : ["Top-100","Recommended"]
+      },
+      {
+        "id": "POP-005",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/popular/book5.jpg",
+        "title": "DO EPIC SHIT",
+        "author": "Ankur Warikoo",
+        "tags" : ["Top-10","Recommended"]
+      },
+      {
+        "id": "POP-006",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "imgUrl": "assets/categories/popular/book6.jpg",
+        "title": "Our Moon Has Blood Clots: A Memoir of a Lost Home in Kashmir",
+        "author": "Rahul Pandita",
+        "tags" : ["Top-100"]
+      },
+      {
+        "id": "POP-007",
+        "audioUrl":
+        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "imgUrl": "assets/categories/popular/book7.jpg",
+        "title": "The Power of Your Subconscious Mind",
+        "author": "Joseph Murphy",
+        "tags" : ["Top-100","Recommended"]
+      },
+      {
+        "id": "POP-008",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/popular/book8.jpg",
+        "title": "Man's Search For Meaning: The classic tribute to hope from the Holocaust",
+        "author": "Viktor E. Frankl",
+        "tags" : ["Top-100","Recommended"]
+      },
+      {
+        "id": "POP-009",
+        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "imgUrl": "assets/categories/popular/book9.jpg",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "tags" : ["Recommended"]
+      }
+    ]
+  },
   {
     "Astronomy" : [
       {
         "id": "AST-001",
-        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "audioUrl": "https://www.archive.org/download/colors_space_0707_librivox/thecolorsofspace_04_bradley_64kb.mp3",
         "imgUrl": "assets/categories/astronomy/book2.jpg",
         "title": "Encyclopedia: The Milky Way (Space Encyclopedia)",
         "author": "Om Books Editorial Team"
       },
       {
         "id": "AST-002",
-        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "audioUrl" : "https://www.archive.org/download/danger_in_deep_space_dramatic_reading_1506_librivox/dangerindeepspace_09_rockwell_64kb.mp3",
         "imgUrl": "assets/categories/astronomy/book3.jpg",
         "title": "Encyclopedia: The Solar System and its Dwarf Planet (Space Encyclopedia)",
         "author": "Om Books Editorial Team"
       },
       {
         "id": "AST-003",
-        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample4.mp3?alt=media&token=96e5ae1e-6604-4fd7-9274-35bfef01e0cf",
+        "audioUrl" : "https://www.archive.org/download/danger_in_deep_space_dramatic_reading_1506_librivox/dangerindeepspace_06_rockwell_64kb.mp3",
         "imgUrl": "assets/categories/astronomy/book4.jpg",
         "title": "Seven Brief Lessons on Physics",
         "author": "Carlo Rovelli"
@@ -25,7 +104,7 @@
       {
         "id": "AST-004",
         "audioUrl":
-        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "https://www.archive.org/download/danger_in_deep_space_dramatic_reading_1506_librivox/dangerindeepspace_21_rockwell_64kb.mp3",
         "imgUrl": "assets/categories/astronomy/book5.jpg",
         "title": "The Theory of Everything: The Origin and Fate of the Universe",
         "author": "Stephen Hawking"
@@ -70,66 +149,25 @@
     ]
   },
   {
-    "Hindi" : [
-      {
-        "id": "HIN-001",
-        "audioUrl":
-        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
-        "imgUrl": "assets/categories/hindi/book1.jpg",
-        "title": "Topi Shukla (Hindi)",
-        "author": "Rahi Masoom Raza"
-      },
-      {
-        "id": "HIN-002",
-        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
-        "imgUrl": "assets/categories/hindi/book2.jpg",
-        "title": "Saaye Mein Dhoop (Hindi)",
-        "author": "Dushyant Kumar"
-      },
-      {
-        "id": "HIN-003",
-        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
-        "imgUrl": "assets/categories/hindi/book3.jpg",
-        "title": "Gitanjali (Hindi)",
-        "author": "Rabindranath Tagore"
-      },
-      {
-        "id": "HIN-004",
-        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample4.mp3?alt=media&token=96e5ae1e-6604-4fd7-9274-35bfef01e0cf",
-        "imgUrl": "assets/categories/hindi/book4.jpg",
-        "title": "Chitralekha (Hindi)",
-        "author": "Bhagwaticharan Verma"
-      },
-      {
-        "id": "HIN-005",
-        "audioUrl":
-        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
-        "imgUrl": "assets/categories/hindi/book5.jpg",
-        "title": "Kankal (Hindi)",
-        "author": "Jaishankar Prasad"
-      }
-    ]
-  },
-  {
     "Biographies" : [
       {
         "id": "BIO-001",
         "audioUrl":
-        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
+        "https://ia801607.us.archive.org/6/items/supreme_personality_0902_librivox/supremepersonality_08_croft_64kb.mp3",
         "imgUrl": "assets/categories/biographies/book1.jpg",
         "title": "Here, There and Everywhere",
         "author": "Sudha Murty"
       },
       {
         "id": "BIO-002",
-        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "audioUrl": "https://ia801607.us.archive.org/6/items/supreme_personality_0902_librivox/supremepersonality_09_croft_64kb.mp3",
         "imgUrl": "assets/categories/biographies/book2.jpg",
         "title": "Brief Answers to the Big Questions",
         "author": "Stephen Hawking"
       },
       {
         "id": "BIO-003",
-        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
+        "audioUrl" : "https://ia601607.us.archive.org/6/items/supreme_personality_0902_librivox/supremepersonality_04_croft_64kb.mp3",
         "imgUrl": "assets/categories/biographies/book3.jpg",
         "title": "Becoming",
         "author": "Michelle Obama"
@@ -316,82 +354,44 @@
     ]
   },
   {
-    "Popular" : [
+    "Hindi" : [
       {
-        "id": "POP-001",
+        "id": "HIN-001",
         "audioUrl":
         "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
-        "imgUrl": "assets/categories/popular/book1.jpg",
-        "title": "Atomic Habits: The life-changing million copy bestseller",
-        "author": "James Clear",
-        "tags" : ["Top-10","Recommended"]
+        "imgUrl": "assets/categories/hindi/book1.jpg",
+        "title": "Topi Shukla (Hindi)",
+        "author": "Rahi Masoom Raza"
       },
       {
-        "id": "POP-002",
+        "id": "HIN-002",
         "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
-        "imgUrl": "assets/categories/popular/book2.jpg",
-        "title": "The Psychology of Money",
-        "author": "Morgan Housel",
-        "tags" : ["Top-10","Recommended"]
+        "imgUrl": "assets/categories/hindi/book2.jpg",
+        "title": "Saaye Mein Dhoop (Hindi)",
+        "author": "Dushyant Kumar"
       },
       {
-        "id": "POP-003",
+        "id": "HIN-003",
         "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
-        "imgUrl": "assets/categories/popular/book3.jpg",
-        "title": "Ikigai: The Japanese secret to a long and happy life",
-        "author": "Héctor García, Francesc Miralles",
-        "tags" : ["Top-10","Recommended"]
+        "imgUrl": "assets/categories/hindi/book3.jpg",
+        "title": "Gitanjali (Hindi)",
+        "author": "Rabindranath Tagore"
       },
       {
-        "id": "POP-004",
+        "id": "HIN-004",
+        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample4.mp3?alt=media&token=96e5ae1e-6604-4fd7-9274-35bfef01e0cf",
+        "imgUrl": "assets/categories/hindi/book4.jpg",
+        "title": "Chitralekha (Hindi)",
+        "author": "Bhagwaticharan Verma"
+      },
+      {
+        "id": "HIN-005",
         "audioUrl":
         "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
-        "imgUrl": "assets/categories/popular/book4.jpg",
-        "title": "How to Win Friends and Influence People",
-        "author": "Dale Carnegie",
-        "tags" : ["Top-100","Recommended"]
-      },
-      {
-        "id": "POP-005",
-        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
-        "imgUrl": "assets/categories/popular/book5.jpg",
-        "title": "DO EPIC SHIT",
-        "author": "Ankur Warikoo",
-        "tags" : ["Top-10","Recommended"]
-      },
-      {
-        "id": "POP-006",
-        "audioUrl" : "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample3.mp3?alt=media&token=c7659ec5-157e-45fe-97ad-0deb0cfb53c7",
-        "imgUrl": "assets/categories/popular/book6.jpg",
-        "title": "Our Moon Has Blood Clots: A Memoir of a Lost Home in Kashmir",
-        "author": "Rahul Pandita",
-        "tags" : ["Top-100"]
-      },
-      {
-        "id": "POP-007",
-        "audioUrl":
-        "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample1.mp3?alt=media&token=4cdf4d9c-f319-4f20-a011-395f355b96bd",
-        "imgUrl": "assets/categories/popular/book7.jpg",
-        "title": "The Power of Your Subconscious Mind",
-        "author": "Joseph Murphy",
-        "tags" : ["Top-100","Recommended"]
-      },
-      {
-        "id": "POP-008",
-        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
-        "imgUrl": "assets/categories/popular/book8.jpg",
-        "title": "Man's Search For Meaning: The classic tribute to hope from the Holocaust",
-        "author": "Viktor E. Frankl",
-        "tags" : ["Top-100","Recommended"]
-      },
-      {
-        "id": "POP-009",
-        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
-        "imgUrl": "assets/categories/popular/book9.jpg",
-        "title": "The Alchemist",
-        "author": "Paulo Coelho",
-        "tags" : ["Recommended"]
+        "imgUrl": "assets/categories/hindi/book5.jpg",
+        "title": "Kankal (Hindi)",
+        "author": "Jaishankar Prasad"
       }
     ]
-  }
+  },
 ]
