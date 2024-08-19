@@ -3,7 +3,7 @@
     "Popular" : [
       {
         "id": "POP-001",
-        "audioUrl":"https://ia803103.us.archive.org/22/items/humannatureconduct1_1807_librivox/humannatureandconduct1_6_dewey_128kb.mp3",
+        "audioUrl":"https://ia803203.us.archive.org/14/items/atozedcollection_vol002_2009_librivox/atozed002_05_various_64kb.mp3",
         "imgUrl": "assets/categories/popular/book1.jpg",
         "title": "Atomic Habits: The life-changing million copy bestseller",
         "author": "James Clear",
@@ -36,7 +36,7 @@
       },
       {
         "id": "POP-005",
-        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/maukhik-audiobook.appspot.com/o/sample2.mp3?alt=media&token=a18d96df-91ee-4464-81e3-ab482c4c2c08",
+        "audioUrl": "https://ia803103.us.archive.org/22/items/humannatureconduct1_1807_librivox/humannatureandconduct1_6_dewey_128kb.mp3",
         "imgUrl": "assets/categories/popular/book5.jpg",
         "title": "DO EPIC SHIT",
         "author": "Ankur Warikoo",
